@@ -1,0 +1,9 @@
+#Project Code=gomex
+#...for CSDMS DataComponent Jan 2024
+LowerLeft_XY= -098.0,+18.0
+UpperRight_XY=-080.0,+31.0
+GridResolution=0.1
+SelvageWidth=100.
+Top/Bottom=0.0,0.3
+OmitDataCollns=hws,tst,fwg,bsh,tnp,---,ran,ppe
+MapProjection=wgs84,EPSG:4326
